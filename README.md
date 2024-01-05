@@ -1,1 +1,3 @@
 # MoneyMentor
+
+MoneyMentor serves as a user-friendly financial guidance platform, offering personalized solutions to address a spectrum of financial questions. With intuitive tools and resources, users can gain insights into budgeting, investing, and managing various financial aspects to make informed decisions for their unique financial goals. All the user has to do is speak into the microphone, ask their question, and click the button to receive advice. The webapp is built with a ReactJS front end and a backend that has OpenAI API integration as well as react-speech-recognition for our voice assistant.
